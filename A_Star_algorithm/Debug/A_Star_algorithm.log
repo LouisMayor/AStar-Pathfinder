@@ -1,0 +1,3 @@
+﻿  A_Star_algorithm.cpp
+c:\users\navi\source\repos\a_star_algorithm\a_star_algorithm\c_astar.h(73): warning C4172: returning address of local variable or temporary: current_node
+  A_Star_algorithm.vcxproj -> C:\Users\navi\source\repos\A_Star_algorithm\Debug\A_Star_algorithm.exe
